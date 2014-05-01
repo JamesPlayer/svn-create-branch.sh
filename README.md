@@ -10,6 +10,7 @@ copy svn-create-branch.sh to a folder that's included in your shell PATH environ
 
 ##Usage
 ```
+    $ cd to/your/working/copy/
     $ svn-create-branch.sh BRANCH_NAME
 ```
-BRANCH_NAME - The name of the branch to be created e.g. style-tweaks;
+BRANCH_NAME - The name of the branch to be created e.g. style-tweaksn;
